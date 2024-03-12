@@ -1,0 +1,14 @@
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\bin\Debug\net7.0\ConsoleApp_Donguler.exe
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\bin\Debug\net7.0\ConsoleApp_Donguler.deps.json
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\bin\Debug\net7.0\ConsoleApp_Donguler.runtimeconfig.json
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\bin\Debug\net7.0\ConsoleApp_Donguler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\bin\Debug\net7.0\ConsoleApp_Donguler.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ConsoleApp_Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ConsoleApp_Donguler.AssemblyInfoInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ConsoleApp_Donguler.AssemblyInfo.cs
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ConsoleApp_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ConsoleApp_Donguler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\refint\ConsoleApp_Donguler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ConsoleApp_Donguler.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ConsoleApp_Donguler.genruntimeconfig.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Donguler\obj\Debug\net7.0\ref\ConsoleApp_Donguler.dll

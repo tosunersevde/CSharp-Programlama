@@ -1,0 +1,14 @@
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\bin\Debug\net7.0\ConsoleApp_HataYonetimi.exe
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\bin\Debug\net7.0\ConsoleApp_HataYonetimi.deps.json
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\bin\Debug\net7.0\ConsoleApp_HataYonetimi.runtimeconfig.json
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\bin\Debug\net7.0\ConsoleApp_HataYonetimi.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\bin\Debug\net7.0\ConsoleApp_HataYonetimi.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ConsoleApp_HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ConsoleApp_HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ConsoleApp_HataYonetimi.AssemblyInfo.cs
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ConsoleApp_HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ConsoleApp_HataYonetimi.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\refint\ConsoleApp_HataYonetimi.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ConsoleApp_HataYonetimi.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ConsoleApp_HataYonetimi.genruntimeconfig.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_HataYonetimi\obj\Debug\net7.0\ref\ConsoleApp_HataYonetimi.dll

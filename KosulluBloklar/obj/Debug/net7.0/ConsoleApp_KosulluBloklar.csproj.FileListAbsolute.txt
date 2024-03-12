@@ -1,0 +1,14 @@
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\bin\Debug\net7.0\ConsoleApp_KosulluBloklar.exe
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\bin\Debug\net7.0\ConsoleApp_KosulluBloklar.deps.json
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\bin\Debug\net7.0\ConsoleApp_KosulluBloklar.runtimeconfig.json
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\bin\Debug\net7.0\ConsoleApp_KosulluBloklar.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\bin\Debug\net7.0\ConsoleApp_KosulluBloklar.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ConsoleApp_KosulluBloklar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ConsoleApp_KosulluBloklar.AssemblyInfoInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ConsoleApp_KosulluBloklar.AssemblyInfo.cs
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ConsoleApp_KosulluBloklar.csproj.CoreCompileInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ConsoleApp_KosulluBloklar.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\refint\ConsoleApp_KosulluBloklar.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ConsoleApp_KosulluBloklar.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ConsoleApp_KosulluBloklar.genruntimeconfig.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_KosulluBloklar\obj\Debug\net7.0\ref\ConsoleApp_KosulluBloklar.dll

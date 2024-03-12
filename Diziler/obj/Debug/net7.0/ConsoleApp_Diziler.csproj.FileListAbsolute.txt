@@ -1,0 +1,14 @@
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\bin\Debug\net7.0\ConsoleApp_Diziler.exe
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\bin\Debug\net7.0\ConsoleApp_Diziler.deps.json
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\bin\Debug\net7.0\ConsoleApp_Diziler.runtimeconfig.json
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\bin\Debug\net7.0\ConsoleApp_Diziler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\bin\Debug\net7.0\ConsoleApp_Diziler.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ConsoleApp_Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ConsoleApp_Diziler.AssemblyInfoInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ConsoleApp_Diziler.AssemblyInfo.cs
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ConsoleApp_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ConsoleApp_Diziler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\refint\ConsoleApp_Diziler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ConsoleApp_Diziler.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ConsoleApp_Diziler.genruntimeconfig.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Diziler\obj\Debug\net7.0\ref\ConsoleApp_Diziler.dll

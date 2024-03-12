@@ -1,0 +1,14 @@
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\bin\Debug\net7.0\ConsoleApp_Operatorler.exe
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\bin\Debug\net7.0\ConsoleApp_Operatorler.deps.json
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\bin\Debug\net7.0\ConsoleApp_Operatorler.runtimeconfig.json
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\bin\Debug\net7.0\ConsoleApp_Operatorler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\bin\Debug\net7.0\ConsoleApp_Operatorler.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ConsoleApp_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ConsoleApp_Operatorler.AssemblyInfoInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ConsoleApp_Operatorler.AssemblyInfo.cs
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ConsoleApp_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ConsoleApp_Operatorler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\refint\ConsoleApp_Operatorler.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ConsoleApp_Operatorler.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ConsoleApp_Operatorler.genruntimeconfig.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_Operatorler\obj\Debug\net7.0\ref\ConsoleApp_Operatorler.dll

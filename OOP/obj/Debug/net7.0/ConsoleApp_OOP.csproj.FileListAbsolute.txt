@@ -1,0 +1,14 @@
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\bin\Debug\net7.0\ConsoleApp_OOP.exe
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\bin\Debug\net7.0\ConsoleApp_OOP.deps.json
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\bin\Debug\net7.0\ConsoleApp_OOP.runtimeconfig.json
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\bin\Debug\net7.0\ConsoleApp_OOP.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\bin\Debug\net7.0\ConsoleApp_OOP.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ConsoleApp_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ConsoleApp_OOP.AssemblyInfoInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ConsoleApp_OOP.AssemblyInfo.cs
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ConsoleApp_OOP.csproj.CoreCompileInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ConsoleApp_OOP.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\refint\ConsoleApp_OOP.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ConsoleApp_OOP.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ConsoleApp_OOP.genruntimeconfig.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_OOP\obj\Debug\net7.0\ref\ConsoleApp_OOP.dll

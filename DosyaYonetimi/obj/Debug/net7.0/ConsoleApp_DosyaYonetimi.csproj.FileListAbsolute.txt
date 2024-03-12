@@ -1,0 +1,14 @@
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\bin\Debug\net7.0\ConsoleApp_DosyaYonetimi.exe
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\bin\Debug\net7.0\ConsoleApp_DosyaYonetimi.deps.json
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\bin\Debug\net7.0\ConsoleApp_DosyaYonetimi.runtimeconfig.json
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\bin\Debug\net7.0\ConsoleApp_DosyaYonetimi.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\bin\Debug\net7.0\ConsoleApp_DosyaYonetimi.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ConsoleApp_DosyaYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ConsoleApp_DosyaYonetimi.AssemblyInfoInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ConsoleApp_DosyaYonetimi.AssemblyInfo.cs
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ConsoleApp_DosyaYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ConsoleApp_DosyaYonetimi.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\refint\ConsoleApp_DosyaYonetimi.dll
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ConsoleApp_DosyaYonetimi.pdb
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ConsoleApp_DosyaYonetimi.genruntimeconfig.cache
+C:\Users\tosun\C#_Projects\ConsoleApp_DosyaYonetimi\obj\Debug\net7.0\ref\ConsoleApp_DosyaYonetimi.dll
